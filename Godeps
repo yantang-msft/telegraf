@@ -39,6 +39,7 @@ github.com/kardianos/osext c2c54e542fb797ad986b31721e1baedf214ca413
 github.com/kardianos/service 6d3a0ee7d3425d9d835debc51a0ca1ffa28f4893
 github.com/kballard/go-shellquote d8ec1a69a250a17bb0e419c386eac1f3711dc142
 github.com/matttproud/golang_protobuf_extensions c12348ce28de40eed0136aa2b644d0ee0650e56c
+github.com/Microsoft/ApplicationInsights-Go 3612f58550c1de70f1a110c78c830e55f29aa65d
 github.com/Microsoft/go-winio ce2922f643c8fd76b46cadc7f404a06282678b34
 github.com/miekg/dns 99f84ae56e75126dd77e5de4fae2ea034a468ca1
 github.com/mitchellh/mapstructure d0303fe809921458f417bcf828397a65db30a7e4
@@ -72,8 +73,6 @@ github.com/StackExchange/wmi f3e2bae1e0cb5aef83e319133eabfee30013a4a5
 github.com/streadway/amqp 63795daa9a446c920826655f26ba31c81c860fd6
 github.com/stretchr/objx 1a9d0bb9f541897e62256577b352fdbc1fb4fd94
 github.com/stretchr/testify 4d4bfba8f1d1027c4fdbe371823030df51419987
-github.com/tidwall/gjson 0623bd8fbdbf97cc62b98d15108832851a658e59
-github.com/tidwall/match 173748da739a410c5b0b813b956f89ff94730b4c
 github.com/vjeantet/grok d73e972b60935c7fec0b4ffbc904ed39ecaf7efe
 github.com/wvanbergen/kafka bc265fedb9ff5b5c5d3c0fdcef4a819b3523d3ee
 github.com/wvanbergen/kazoo-go 968957352185472eacb69215fa3dbfcfdbac1096
